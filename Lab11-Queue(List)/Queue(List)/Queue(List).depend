@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697704219 source:e:\cse 225\lab\lab11-queue(list)\queue(list)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
